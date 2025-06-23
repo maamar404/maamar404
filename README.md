@@ -1,38 +1,37 @@
-# 👋 Salut, je suis Mohamed Maamar
+# 👋 Hi, I'm Mohamed Maamar
 
 ### 🎯 Front-End Developer | React.js | UI/UX Designer
 
-- 🔭 Je travaille actuellement sur des projets full stack MERN.
-- 💻 Je suis bien en JavaScript.
-- 🗄️ Bonne maîtrise de MySQL et MongoDB.
-- 🎨 Bonne expérience avec TailwindCSS et Bootstrap.
-- 💡 Passionné de design et d’expérience utilisateur.
-- 🛠️ Technologies : React.js, Node.js, Bootstrap, MySQL, PHP, WordPress, TailwindCSS, Adobe XD.
+- 🔭 Currently working on full stack MERN projects.
+- 💻 Strong in JavaScript.
+- 🗄️ Solid experience with MySQL and MongoDB.
+- 🎨 Skilled with TailwindCSS and Bootstrap.
+- 💡 Passionate about design and user experience.
+- 🛠️ Technologies: React.js, Node.js, Bootstrap, MySQL, PHP, WordPress, TailwindCSS, Adobe XD.
 
 ---
 
-## 🚀 Projets réalisés
+## 🚀 Completed Projects
 
 ### 🆕 E-commerce React App "KRONOS"  
-Stack : MERN, TailwindCSS, Dashboard Admin
+Stack: MERN, TailwindCSS, Admin Dashboard
 
 ### 🕌 Prayer Time Finder  
-Stack : React.js, Axios, Aladhan API
+Stack: React.js, Axios, Aladhan API
 
 ### 🎬 Movies app "Movie Scope"  
-Fonction : obtenir des détails sur les films (non streaming)  
-Stack : React.js, TMDb API, Fetch API
+Function: Retrieve movie details (not for streaming)  
+Stack: React.js, TMDb API, Fetch API
 
 ### 🏗 Construction Agency "Golden Home"  
-Stack : Bootstrap, jQuery, PHP, MySQL
+Stack: Bootstrap, jQuery, PHP, MySQL
 
 ### 🏋️ Fitness Club "FITFLEX" (One Page Concept)  
-Stack : Bootstrap, JavaScript, jQuery, MySQL
+Stack: JavaScript, jQuery, MySQL, Bootstrap
 
 ---
 
-## 📫 Me contacter
+## 📫 Contact Me
 
 - [LinkedIn - Mohamed Maamar](https://www.linkedin.com/in/maamar-mohamed/)
-- Email : mohamedmaamar7@email.com
-  
+- Email: mohamedmaamar7@email.com
