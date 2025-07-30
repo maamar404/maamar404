@@ -13,21 +13,25 @@
 
 ## 🚀 Completed Projects
 
-### 🆕 E-commerce React App "KRONOS"  
-Stack: MERN, TailwindCSS, Admin Dashboard
+### 🆕 E-commerce React App "KRONOS"
+**Stack**: MERN, TailwindCSS, Admin Dashboard
 
-### 🕌 Prayer Time Finder  
-Stack: React.js, Axios, Aladhan API
+### 🕌 Prayer Time Finder
+**Stack**: React.js, Axios, Aladhan API
 
 ### 🎬 Movies app "Movie Scope"  
 Function: Retrieve movie details (not for streaming)  
-Stack: React.js, TMDb API, Fetch API
+**Stack**: React.js, TMDb API, Fetch API
+
+### 🌤 Weather App Morocco 
+*Real-time weather forecasts for Moroccan cities*  
+**Stack**: React.js, TailwindCSS, OpenWeatherMap API 
 
 ### 🏗 Construction Agency "Golden Home"  
-Stack: Bootstrap, jQuery, PHP, MySQL
+**Stack**: Bootstrap, jQuery, PHP, MySQL
 
 ### 🏋️ Fitness Club "FITFLEX" (One Page Concept)  
-Stack: JavaScript, jQuery, MySQL, Bootstrap
+**Stack**: JavaScript, jQuery, MySQL, Bootstrap
 
 ---
 
