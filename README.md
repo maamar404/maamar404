@@ -1,14 +1,16 @@
 # 👋 Hi, I'm Mohamed Maamar
 
-### 🎯 Front-End Developer | React.js | UI/UX Designer
+🚀 **Full Stack Developer** | MERN Stack Enthusiast
+
+Passionate about building end-to-end web applications with modern technologies.
+Strong expertise in both frontend and backend development, with a focus on creating scalable and user-friendly solutions.
 
 - 🔭 Currently working on full stack MERN projects.
 - 💻 Strong in JavaScript.
 - 🗄️ Solid experience with MySQL and MongoDB.
 - 🎨 Skilled with TailwindCSS and Bootstrap.
 - 💡 Passionate about design and user experience.
-- 🛠️ Technologies: React.js, Node.js, Bootstrap, MySQL, PHP, WordPress, TailwindCSS, Adobe XD.
-
+- 🛠️ Technologies: React.js, Node.js, Bootstrap, MySQL, PHP, WordPress, TailwindCSS
 ---
 
 ## 🚀 Completed Projects
@@ -34,6 +36,23 @@ Function: Retrieve movie details (not for streaming)
 **Stack**: JavaScript, jQuery, MySQL, Bootstrap
 
 ---
+
+## 🔄 Full Stack Capabilities
+
+### **Frontend Skills**
+- React.js, JavaScript ES6+, HTML5, CSS3
+- TailwindCSS, Bootstrap, Responsive Design
+- API Consumption, State Management
+
+### **Backend Skills**  
+- Node.js, Express.js, REST API Development
+- MongoDB, MySQL, Database Design
+- User Authentication, Server-side Logic
+
+### **Development Tools**
+- Git & GitHub (Version Control)
+- Project Deployment & Hosting
+- Cross-browser Testing
 
 ## 📫 Contact Me
 
