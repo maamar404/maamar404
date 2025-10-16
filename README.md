@@ -58,4 +58,4 @@ Function: Retrieve movie details (not for streaming)
 
 - [🌐 Personal Website - mohamedmaamar.me](https://mohamedmaamar.me/)
 - [LinkedIn - Mohamed Maamar](https://www.linkedin.com/in/maamar-mohamed/)
-- Email: mohamedmaamar7@email.com
+- Email: mohamedmaamar7@gmail.com
