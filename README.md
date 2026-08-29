@@ -56,6 +56,6 @@ Function: Retrieve movie details (not for streaming)
 
 ## 📫 Contact Me
 
-- [🌐 Personal Website - mohamedmaamar.me](https://mohamedmaamar.me/)
+- [🌐 Personal Website - mohamedmaamar.com](https://mohamedmaamar.com/)
 - [LinkedIn - Mohamed Maamar](https://www.linkedin.com/in/maamar-mohamed/)
 - Email: mohamedmaamar7@gmail.com
