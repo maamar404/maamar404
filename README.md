@@ -66,13 +66,13 @@ A complete streetwear e-commerce platform with a customer interface and administ
 
 A web platform dedicated to researching and comparing AI tools for different professional fields.
 
-**Tech:** Next.js · React · TypeScript · Tailwind CSS · Supabase · MDX
+**Tech:** Next.js · React · TypeScript · Tailwind CSS · MDX
 
 * Professional AI tool directories
 * Research-based tool comparisons
 * SEO-oriented content architecture
 * Responsive and modern UI
-* Deployed with Vercel
+* CI/CD deployment with GitHub and Vercel
 
 ---
 
@@ -80,14 +80,13 @@ A web platform dedicated to researching and comparing AI tools for different pro
 
 An educational platform MVP developed with a focus on role-based access and school management.
 
-**Tech:** Next.js · React · TypeScript · Node.js · Express.js · MongoDB · PostgreSQL · Supabase · Tailwind CSS
+**Tech:** Next.js · React · TypeScript · Node.js · Express.js · MongoDB · Cloudinary · Tailwind CSS
 
 * Admin, teacher and student roles
 * REST API architecture
 * JWT authentication
 * Reusable UI components
 * Database integration
-* CI/CD deployment with GitHub and Vercel
 
 ---
 
@@ -123,15 +122,6 @@ A mobile application designed to help users discover cities and generate persona
 * Working with **MongoDB and PostgreSQL**
 * Building reusable and maintainable UI components
 * Exploring AI-powered applications and developer tools
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maamar404&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maamar404&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 ---
 
