@@ -1,139 +1,129 @@
 # 👋 Hi, I'm Mohamed Maamar
 
-### 💻 Full Stack Developer | MERN Stack
+### 💻 Full Stack Web & Mobile Developer | MERN · Next.js · PHP
 
-I'm a **Full Stack Developer** specialized in building modern web applications with **JavaScript/TypeScript**, from responsive frontend interfaces to secure backend APIs and database integration.
+I'm a **Full Stack Developer** specialized in building modern web and mobile applications with **JavaScript/TypeScript**, **React/Next.js**, **Node.js**, and **PHP**—from responsive frontend interfaces to secure backend APIs and database architectures.
 
-I'm passionate about creating **clean, scalable and user-friendly applications** and continuously improving my development skills through real-world projects and professional experiences.
+I focus on writing **clean, scalable, and user-friendly software**, combining hands-on client deployments, startup MVPs, and real-world engineering internships.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### Frontend & Mobile
+- React.js · Next.js · React Native (Expo)
+- TypeScript · JavaScript (ES6+)
+- HTML5 · CSS3 · Tailwind CSS · Bootstrap · Framer Motion
+- Axios
 
-* React.js
-* Next.js
-* TypeScript
-* JavaScript (ES6+)
-* HTML5 / CSS3
-* Tailwind CSS
-* Bootstrap
-* Axios
-
-### Backend
-
-* Node.js
-* Express.js
-* PHP
-* REST APIs
-* JWT Authentication
-* bcrypt
+### Backend & CMS
+- Node.js · Express.js
+- PHP · WordPress (Custom Child Themes, ACF, Elementor)
+- REST APIs · JWT Authentication · bcrypt
 
 ### Databases
-
-* MongoDB / Mongoose
-* PostgreSQL / Supabase
-* MySQL
+- MongoDB / Mongoose
+- PostgreSQL / Supabase
+- MySQL
 
 ### Tools & Platforms
-
-* Git / GitHub
-* Vercel
-* Jira
-* Figma
-* Claude Code / Cursor
+- Git / GitHub · CI/CD · Vercel
+- Jira · Postman
+- Figma · Adobe Photoshop / Illustrator
+- Claude Code / Cursor
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛍️ KRONOS — Full Stack MERN E-commerce
+### 🛍️ KRONOS — Full Stack MERN E-Commerce
+A complete streetwear e-commerce ecosystem featuring a customer storefront, administration dashboard, and mobile companion app.
 
-A complete streetwear e-commerce platform with a customer interface and administration dashboard.
+**Tech:** React.js · React Native · Node.js · Express.js · MongoDB · Tailwind CSS · JWT · Stripe
 
-**Tech:** React.js · Node.js · Express.js · MongoDB · Mongoose · Tailwind CSS · JWT · Stripe
-
-* Full MERN architecture
-* Authentication and authorization
-* Product, cart, favorites and order management
-* Admin dashboard
-* Secure payment integration with Stripe
+- Full-stack MERN architecture with unified REST API
+- Role-based authentication, cart, wishlist, and order management
+- Admin dashboard for inventory and order tracking
+- Secure checkout integration with Stripe
 
 ---
 
-### 🤖 Toolentra — AI Tools Review Platform
+### 🎁 Tefal & Moulinex — Promotional Tombola Web Platform
+🔗 **Live:** [tefal-moulinex.com](https://www.tefal-moulinex.com/)
 
-A web platform dedicated to researching and comparing AI tools for different professional fields.
+A production promotional campaign platform developed for **Groupe SEB (Tefal & Moulinex)** allowing customers to register and participate in a gift giveaway tombola.
+
+**Tech:** PHP · MySQL · HTML5 · CSS3 · JavaScript · Google Tag Manager
+
+- Secure server-side registration form validation and file upload handling
+- Relational MySQL database architecture for participant entries
+- Integrated Google Tag Manager (GTM) for campaign analytics and conversion tracking
+
+---
+
+### 🛢️ Sturm Energy — Corporate Product Showcase
+🔗 **Live:** [sturmenergy.freehosting.dev](https://sturmenergy.freehosting.dev/)
+
+A corporate product catalog website built for **Sturm Energy** to showcase industrial lubricating oils and grease product lines.
+
+**Tech:** WordPress · PHP · Custom Child Theme (`elementor-child`) · ACF · Elementor · WPForms
+
+- Custom child theme architecture ensuring update-safe PHP and CSS customizations
+- Dynamic category templates powered by Advanced Custom Fields (ACF)
+- Optimized plugin stack and lead capture integration
+
+---
+
+### 🎓 Taalim — Educational Platform MVP *(Internship Project)*
+A role-based educational management platform developed from scratch during a 2-month software engineering internship.
+
+**Tech:** React Native / Next.js · TypeScript · Node.js · Express.js · MongoDB · Cloudinary · Tailwind CSS
+
+- Dedicated interfaces and permissions for Admin, Teacher, and Student roles
+- RESTful API with JWT authentication and cloud media storage
+- Automated light and dark theme support
+
+---
+
+### 🤖 Toolentra — AI Tools Review & Comparison Platform
+A web platform dedicated to researching and comparing AI tools across professional workflows.
 
 **Tech:** Next.js · React · TypeScript · Tailwind CSS · MDX
 
-* Professional AI tool directories
-* Research-based tool comparisons
-* SEO-oriented content architecture
-* Responsive and modern UI
-* CI/CD deployment with GitHub and Vercel
+- Structured AI tool directories and research-based comparisons
+- SEO-oriented static/MDX content architecture
+- Automated CI/CD deployment with GitHub and Vercel
 
 ---
 
-### 🎓 Taalim — Educational Platform MVP
+### 🗺️ AI City Tour Guide *(Mobile Development Internship)*
+> *Contributed as a Mobile Developer Intern in an Agile (Jira) team — source code hosted in a private organization repository.*
 
-An educational platform MVP developed with a focus on role-based access and school management.
+A cross-platform mobile application helping travelers discover cities and generate personalized itineraries.
 
-**Tech:** Next.js · React · TypeScript · Node.js · Express.js · MongoDB · Cloudinary · Tailwind CSS
+**Tech:** React Native · Expo · TypeScript · OpenStreetMap · Google Places API · Google Routes API
 
-* Admin, teacher and student roles
-* REST API architecture
-* JWT authentication
-* Reusable UI components
-* Database integration
+- Translated Figma designs into responsive mobile screens
+- Integrated interactive maps, points of interest discovery, and route navigation APIs
 
 ---
 
-### 🗺️ AI City Tour Guide
+## 📂 Additional Projects
 
-A mobile application designed to help users discover cities and generate personalized tours.
-
-**Tech:** React Native · Expo · TypeScript · Node.js · Express.js · MongoDB · Google Places API · Google Routes API · Gemini API
-
-* AI-powered travel assistant
-* Personalized route generation
-* Points of interest discovery
-* Navigation and route information
-* Integration with external APIs
-
----
-
-## 📂 Other Projects
-
-* 🕌 **Prayer Time Finder** — React.js · Axios · Aladhan API
-* 🎬 **MovieScope** — React.js · TMDb API
-* 🌤️ **Weather App Morocco** — React.js · Tailwind CSS · OpenWeatherMap API
-* 🏗️ **Golden Home** — PHP · MySQL · Bootstrap · jQuery
-* 🏋️ **FITFLEX** — JavaScript · jQuery · Bootstrap
-
----
-
-## 🎯 What I'm Currently Focused On
-
-* Building full-stack applications with **React, Next.js and Node.js**
-* Improving my **TypeScript** and backend development skills
-* Designing and integrating **REST APIs**
-* Working with **MongoDB and PostgreSQL**
-* Building reusable and maintainable UI components
-* Exploring AI-powered applications and developer tools
+- 🕌 **Prayer Time Finder** — React.js · Axios · Aladhan API
+- 🎬 **MovieScope** — React.js · TMDb API
+- 🌤️ **Weather App Morocco** — React.js · Tailwind CSS · OpenWeatherMap API
+- 🏗️ **Golden Home** — PHP · MySQL · Bootstrap · jQuery
+- 🏋️ **FITFLEX** — JavaScript · jQuery · Bootstrap
 
 ---
 
 ## 📫 Let's Connect
 
-🌐 **Portfolio:** [mohamedmaamar.com](https://mohamedmaamar.com/)
-
-💼 **LinkedIn:** [Mohamed Maamar](https://www.linkedin.com/in/maamar-mohamed/)
-
-📧 **Email:** [mohamedmaamar7@gmail.com](mailto:mohamedmaamar7@gmail.com)
-
-🐙 **GitHub:** [@maamar404](https://github.com/maamar404)
+- 🌐 **Portfolio:** [mohamedmaamar.com](https://mohamedmaamar.com/)
+- 💼 **LinkedIn:** [Mohamed Maamar](https://www.linkedin.com/in/maamar-mohamed/)
+- 📧 **Email:** [mohamedmaamar7@gmail.com](mailto:mohamedmaamar7@gmail.com)
+- 🐙 **GitHub:** [@maamar404](https://github.com/maamar404)
 
 ---
 
